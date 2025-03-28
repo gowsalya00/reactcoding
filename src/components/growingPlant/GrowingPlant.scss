@@ -1,0 +1,31 @@
+$primaryColor: green; // to create variable
+
+.plant {
+    color: $primaryColor; // instead we use variable name in color 
+    font-size: 40px;
+    font-style: italic;
+    
+}
+
+.logo {
+    font-size: 30px;
+    color: black;
+}
+
+.text {
+
+    color: $primaryColor;
+}
+
+.home{                               //this for Home
+
+    color:brown;
+}
+
+.test{
+
+    color: blueviolet;
+    font-size: 27px;
+    
+}
+
